@@ -1,0 +1,14 @@
+[[mods]]
+modId = "inventoryeffects"
+displayName = "Inventory Effects"
+version = "${version}"
+credits = "EnderDevelopment"
+authors = "EnderDevelopment"
+description = "A mod that adds visual effects when clicking on inventory, options, and menus."
+
+[[dependencies.inventoryeffects]]
+modId = "forge"
+mandatory = true
+versionRange = "[${loader_version},)"
+ordering = "NONE"
+side = "BOTH"
